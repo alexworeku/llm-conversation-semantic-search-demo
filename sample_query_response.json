@@ -1,0 +1,31 @@
+{
+  "ids": [["msg_x3", "msg_t1", "msg_r1"]],
+  "embeddings": null,
+  "documents": null,
+  "uris": null,
+  "included": ["metadatas", "distances"],
+  "data": null,
+  "metadatas": [
+    [
+      {
+        "create_time": "2024-02-03T15:56:40",
+        "user_id": "u_3344556",
+        "user_email": "admin@cryptofund.net",
+        "conversation_id": "111a2200-d44d-55e5-b777-998877665544"
+      },
+      {
+        "user_email": "traveler_mike@yahoo.com",
+        "create_time": "2024-02-15T05:43:20",
+        "conversation_id": "999t8800-z11z-22x2-c333-445566778899",
+        "user_id": "u_5566778"
+      },
+      {
+        "conversation_id": "333k4400-m55m-66n6-o777-889900112233",
+        "create_time": "2024-02-26T20:36:40",
+        "user_id": "u_1122334",
+        "user_email": "jenny.sims@outlook.com"
+      }
+    ]
+  ],
+  "distances": [[1.653059482574463, 1.726210117340088, 1.7331438064575195]]
+}
