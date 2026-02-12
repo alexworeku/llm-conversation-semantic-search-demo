@@ -122,7 +122,7 @@ def _get_collection_size() -> int:
 
 
 def _find_profile_image() -> Path | None:
-    for directory in (Path("data"), Path(".")):
+    for directory in (Path("images"), Path("data"), Path(".")):
         if not directory.exists():
             continue
         for path in sorted(directory.iterdir()):
