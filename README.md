@@ -4,8 +4,6 @@
 
 A Streamlit proof of concept that shows how LLM conversation data can be transformed into privacy-aware intent signals for semantic search and monetization workflows.
 
-![Alex Ababu Avatar](images/profile.JPG)
-
 ## What This Project Does
 - Ingests conversation history from `data/chats.json`
 - Detects and anonymizes sensitive entities (PII) using Presidio
