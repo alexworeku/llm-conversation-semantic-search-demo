@@ -1,0 +1,7 @@
+chromadb
+ijson
+pydantic
+python-dateutil
+presidio-analyzer
+presidio-anonymizer
+streamlit
